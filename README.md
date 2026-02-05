@@ -52,6 +52,7 @@
 [Stylus Developer Tutorials](https://www.youtube.com/playlist?list=PLxKYuiL1TUuIkQmn5Mz7fVKZiM6vbwL5f)<br>
 [Stylus SDK repositories](https://docs.arbitrum.io/stylus/reference/stylus-sdk)<br>
 [Web 3 Libraries](https://docs.arbitrum.io/for-devs/dev-tools-and-resources/web3-libraries-tools)<br>
+[Arbitrum dApp Skill : Claude Code skill for building complete dApps with Stylus Rust and Solidity](https://github.com/hummusonrails/arbitrum-dapp-skill)<br>
 
 
 ## Videos 📹
